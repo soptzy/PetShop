@@ -7,12 +7,8 @@ O sistema inclui:
 - Listagem de agendamentos do usuário autenticado
   
 ## 📘 Diagrama de Classes
-![Diagrama de Classes](Diagrama de classes.drawio(2).png)
+
 
 
 ## 🎭 Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](diagrama de casos de uso.png)
----
 
-
-## 📁 Estrutura do Projeto
