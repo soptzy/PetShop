@@ -9,6 +9,6 @@ O sistema inclui:
 ## 📘 Diagrama de Classes
 
 
-
 ## 🎭 Diagrama de Casos de Uso
 
+<img width="731" height="291" alt="Image" src="https://github.com/user-attachments/assets/05a7cb73-487c-4b62-95da-1348866ed893" />
