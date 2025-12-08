@@ -8,6 +8,7 @@ O sistema inclui:
   
 ## 📘 Diagrama de Classes
 
+<img width="671" height="331" alt="Image" src="https://github.com/user-attachments/assets/d786c579-0f05-4cf5-8b8d-7edc7e26f0a8" />
 
 ## 🎭 Diagrama de Casos de Uso
 
